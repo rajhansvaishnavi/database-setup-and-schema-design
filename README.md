@@ -1,5 +1,6 @@
 # database-setup-and-schema-design
 This project sets up a simple relational database using SQL for managing customers and their orders. It consists of two tables: customer and order_, with a foreign key relationship between them.
+
 🧰 Tools Required
 MySQL Workbench / SQLiteStudio / pgAdmin
 
